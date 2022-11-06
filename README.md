@@ -242,10 +242,10 @@
       <a title="GitHub Actions" href="https://github.com/actions" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Travis CI" href="https://github.com/actions" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" alt="travis" width="40" height="40"/> </a>
+      <a title="Travis CI" href="https://www.travis-ci.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" alt="travis" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="CircleCI" href="https://github.com/actions" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40"/> </a>
+      <a title="CircleCI" href="https://circleci.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="Gitlab CI" href="https://docs.gitlab.com/ee/ci" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
