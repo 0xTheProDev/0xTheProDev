@@ -257,7 +257,7 @@
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=0xTheProDev&count_private=true&theme=dark&hide_border=true" alt = "Progyan's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Progyan1997&theme=dark&hide_border=true" alt = "Progyan's Rating" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=0xTheProDev&theme=dark&hide_border=true" alt = "Progyan's Rating" width = 400 >
 </p>
 
 ### 🎓 Achievements
