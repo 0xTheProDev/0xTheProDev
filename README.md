@@ -82,19 +82,22 @@
       <a title="SWC" href="https://swc.rs" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/swc.svg" alt="swc" width="40" height="40"/> </a>
     </td>
     <td>
+      <a title="Vite" href="https://vitejs.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vite.svg" alt="vite" width="40" height="40"/> </a>
+    </td>
+    <td>
       <a title="Webpack" href="https://webpack.js.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="Rollup" href="https://rollupjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/rollupdotjs.svg" alt="rollup" width="40" height="40"/> </a>
     </td>
-    <td>
+    <!--td>
       <a title="Gulp" href="https://gulpjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
-    </td>
+    </td-->
     <td>
       <a title="Grunt" href="https://gruntjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" alt="grunt" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="API Extractor" href="https://api-extractor.com" target="_blank"> <img src="https://api-extractor.com/images/api-extractor.svg" alt="api-extractor" width="40" height="40"/> </a>
+      <a title="API Extractor" href="https://api-extractor.com" target="_blank"> <img src="https://api-extractor.com/images/site/api-extractor.svg" alt="api-extractor" width="40" height="40"/> </a>
     </td>
   </tr>
   <tr>
