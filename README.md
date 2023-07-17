@@ -9,7 +9,7 @@
   <a href = "https://theprodev.medium.com"><img src = "https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=black" height = 30></a>
   <a href = "https://dev.to/theprodev"><img src = "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height = 30></a>
   <a href = "https://theprodev.hashnode.dev"><img src = "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height = 30></a>
-  <a href = "https://quora.com/profile/progyan-bhattacharya"><img src = "https://img.shields.io/badge/Quora-B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" height = 30></a>
+  <a href = "https://quora.com/profile/The-Pro-Dev"><img src = "https://img.shields.io/badge/Quora-B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" height = 30></a>
   <!--a href = "https://hackerrank.com/bprogyan"><img src = "https://img.shields.io/badge/-Hackerrank-BA94C?style=for-the-badge&logo=HackerRank&logoColor=white&color=black" height = 30></a-->
   <a href = "https://npmjs.com/~bprogyan"><img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height = 30></a>
 </p>
