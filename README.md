@@ -12,7 +12,7 @@
   <a href = "https://theprodev.hashnode.dev"><img src = "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height = 30></a>
   <a href = "https://quora.com/profile/The-Pro-Dev"><img src = "https://img.shields.io/badge/Quora-B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" height = 30></a>
   <!--a href = "https://hackerrank.com/bprogyan"><img src = "https://img.shields.io/badge/-Hackerrank-BA94C?style=for-the-badge&logo=HackerRank&logoColor=white&color=black" height = 30></a-->
-  <a href = "https://npmjs.com/~bprogyan"><img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height = 30></a>
+  <!--a href = "https://npmjs.com/~bprogyan"><img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height = 30></a-->
 </p>
 
 ### 🧑‍💻 Skills
@@ -69,7 +69,7 @@
       <a title="Bootstrap" href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="TailwindCSS" href="https://tailwindcss.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
+      <a title="TailwindCSS" href="https://tailwindcss.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
     </td>
   </tr>
   <tr>
@@ -137,11 +137,11 @@
     <td>
       <a title="FastAPI" href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="40" height="40"/> </a>
     </td>
-    <!--td>
-      <a title="Flask" href="https://flask.palletsprojects.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
-    </td-->
     <td>
-      <a title="NestJS" href="http://nestjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
+      <a title="Flask" href="https://flask.palletsprojects.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a title="NestJS" href="http://nestjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="Spring Boot" href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/> </a>
@@ -150,14 +150,14 @@
       <a title="Rails" href="https://rubyonrails.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Laravel" href="https://laravel.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+      <a title="Laravel" href="https://laravel.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="Django" href="https://djangoproject.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
     </td>
-    <td>
+    <!--td>
       <a title="Express" href="http://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
-    </td>
+  </td-->
   </tr>
    <tr>
     <td>
