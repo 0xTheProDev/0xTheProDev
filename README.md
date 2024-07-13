@@ -66,7 +66,7 @@
       <a title="Jamstack" href="https://jamstack.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" alt="jamstack" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Bootstrap" href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
+      <a title="Bootstrap" href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="TailwindCSS" href="https://tailwindcss.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
@@ -83,13 +83,13 @@
       <a title="SWC" href="https://swc.rs" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/swc.svg" alt="swc" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Vite" href="https://vitejs.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vite.svg" alt="vite" width="40" height="40"/> </a>
+      <a title="Vite" href="https://vitejs.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="Webpack" href="https://webpack.js.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Rollup" href="https://rollupjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/rollupdotjs.svg" alt="rollup" width="40" height="40"/> </a>
+      <a title="Rollup" href="https://rollupjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rollup/rollup-original.svg" alt="rollup" width="40" height="40"/> </a>
     </td>
     <!--td>
       <a title="Gulp" href="https://gulpjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
@@ -109,9 +109,6 @@
       <a title="Python" href="https://python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Go" href="https://go.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-    </td>
-    <td>
       <a title="Node.js" href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
     </td>
     <!--td>
@@ -129,6 +126,9 @@
     <td>
       <a title="GraphQL" href="https://graphql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
     </td>
+    <td>
+      <a title="gRPC" href="https://grpc.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-plain.svg" alt="grpc" width="40" height="40"/> </a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -138,16 +138,13 @@
       <a title="FastAPI" href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Flask" href="https://flask.palletsprojects.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
-    </td>
-    <td>
       <a title="NestJS" href="http://nestjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Spring Boot" href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/> </a>
+      <a title="Rails" href="https://rubyonrails.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Rails" href="https://rubyonrails.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40"/> </a>
+      <a title="Spring Boot" href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="Laravel" href="https://laravel.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a>
@@ -155,11 +152,34 @@
     <td>
       <a title="Django" href="https://djangoproject.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
     </td>
+    <td>
+      <a title="Flask" href="https://flask.palletsprojects.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
+    </td>
     <!--td>
       <a title="Express" href="http://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
   </td-->
   </tr>
-   <tr>
+  <tr>
+    <td>
+      <h4>System Programming</h4>
+    </td>
+    <td>
+      <a title="C" href="https://en.cppreference.com/w/c" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a title="C++" href="https://isocpp.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a title="Go" href="https://go.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a title="Rust" href="https://rust-lang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a title="Linux" href="https://kernel.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+    </td>
+  </tr>
+  <tr>
     <td>
       <h4>Software Testing</h4>
     </td>
@@ -167,10 +187,10 @@
       <a title="Jest" href="https://jestjs.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a>
      </td>
      <td>
-      <a title="Mocha" href="https://mochajs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> </a>
+      <a title="Vitest" href="https://vitest.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" alt="vitest" width="40" height="40"/> </a>
      </td>
      <td>
-      <a title="Cypress" href="https://www.cypress.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
+      <a title="Cypress" href="https://www.cypress.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/> </a>
      </td>
      <td>
       <a title="Rspec" href="https://rspec.info" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" alt="rspec" width="40" height="40"/> </a>
@@ -199,10 +219,10 @@
       <a title="MongoDB" href="http://mongodb.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Elastic Search" href="https://elastic.co" target="_blank"> <img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt36f2da8d650732a0/5d0823c3d8ff351753cbc99f/logo-elasticsearch-32-color.svg" alt="elastic" width="40" height="40"/> </a>
+      <a title="Firebase" href="https://firebase.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Firebase" href="https://firebase.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a>
+      <a title="Elastic Search" href="https://elastic.co" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="elastic" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="Redis" href="https://redis.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
@@ -222,7 +242,7 @@
      <a title="Nginx" href="https://nginx.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
     </td>
     <td>
-     <a title="Apache" href="https://httpd.apache.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" alt="apache" width="40" height="40"/> </a>
+     <a title="Apache" href="https://httpd.apache.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="Amazon Web Services" href="https://aws.amazon.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -242,10 +262,10 @@
      <a title="Jenkins" href="https://jenkins.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="GitHub Actions" href="https://github.com/actions" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+      <a title="GitHub Actions" href="https://github.com/actions" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Travis CI" href="https://www.travis-ci.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" alt="travis" width="40" height="40"/> </a>
+      <a title="Travis CI" href="https://www.travis-ci.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-original.svg" alt="travis" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="CircleCI" href="https://circleci.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40"/> </a>
