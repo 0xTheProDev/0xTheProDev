@@ -2,8 +2,9 @@
 
 <p>
   <h3>📟 Connect me over</h3>
+  <a href = "https://0xtheprodev.gitlab.io"><img src = "https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=googlechrome&logoColor=white" height = 30></a>
   <!--a href = "https://telegram.me/TheProDev"><img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height = 30></a-->
-  <a href = "https://linkedin.com/in/progyan-bhattacharya"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 30></a>
+  <a href = "https://linkedin.com/in/theprodev"><img src = "https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 30></a>
   <a href = "https://discord.gg/theprodev"><img src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height = 30></a>
   <a href = "https://twitter.com/ProDevOfficial"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height = 30></a>
 <!--   <a href = "https://github.com/0xTheProDev"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height = 30></a> -->
